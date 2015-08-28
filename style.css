@@ -1,0 +1,6 @@
+html { font-family: sans-serif; }
+
+.wrap { position: absolute; width: 100%; height: 100%; top: 0; left: 0; background-color: #270035; }
+
+.buttons { padding: 20px; margin: 10px; text-align: center; }
+.button { background-color: #23B9B9; color: #fff; text-decoration: none; text-transform: uppercase; font-weight: bold; padding: 20px; margin: 10px; border-radius: 2px; box-shadow: 0 1px 0 0 #4EE9E9 inset; text-shadow: 0px 1px 0px #004F59; }
